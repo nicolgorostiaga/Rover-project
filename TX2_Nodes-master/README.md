@@ -23,7 +23,10 @@ At cmake ../ download only the image recognition packages, object detection pack
   $ sudo ldconfig
 
 ## How to Run
-On the TX2, navigate to the build directory after 
-running the make command, and type in the following command.
+Inside the TX2_Node-master folder type:
 
-$ sudo ./tx2_master
+  $make
+  
+Navigate to the build directory after running the make command, and type in the following command.
+
+ $ sudo ./tx2_master
