@@ -1,0 +1,13 @@
+distanceToGoThreshold          :5.0
+distanceFromStartThreshold     :0.60
+angleToTurnThresholdi          :0.40
+centerDPThreshold              :12.09
+sideDotProductValueCount       :1
+centerDotProductValueCount     :1
+turningWeight                  :0.70
+distanceFromPreviousThreshold  :5.25
+turnAngle                      :0.45
+multiTurnThresh                :1.3
+usingGps		       :1
+manual			       :1
+
