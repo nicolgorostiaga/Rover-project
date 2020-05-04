@@ -1,0 +1,8 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '11.0'
+use_frameworks!
+
+target 'rover1' do
+    pod 'CocoaMQTT'
+    pod 'YouTubePlayer-Swift','~> 1.0'
+end

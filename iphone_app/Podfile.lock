@@ -1,0 +1,24 @@
+PODS:
+  - CocoaAsyncSocket (7.6.4)
+  - CocoaMQTT (1.2.5):
+    - CocoaAsyncSocket (~> 7.6.3)
+  - YouTubePlayer-Swift (1.0)
+
+DEPENDENCIES:
+  - CocoaMQTT
+  - YouTubePlayer-Swift (~> 1.0)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - CocoaMQTT
+    - YouTubePlayer-Swift
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+  CocoaMQTT: a61490ed3b328011c5d75169a77781983e2bb221
+  YouTubePlayer-Swift: ae82f4bcb504162a872b852596a9dc1fa3828c34
+
+PODFILE CHECKSUM: fa8474613f104bd3805c88101f789bb90a21990c
+
+COCOAPODS: 1.9.1
