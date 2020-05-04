@@ -1,3 +1,8 @@
+## Raspberry pi OS
+ Flash ubuntu mate 64 bit.
+ 
+ Use docker and FFMPEG for accessing the camera.
+
 ## Raspberry pi Build Instructions
 At reboot all the launcher scripts will be compiled, this includes:
  
