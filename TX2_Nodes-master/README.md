@@ -1,5 +1,6 @@
 # TX2 OS
-Download SDK Manager and flash Jetpack 3.3.1. The Os will be ubuntu 16.04 LTS and will have Cuda 9.0 and tegra 4.4.38 which is needed for this project.
+Download SDK Manager and flash Jetpack 3.3.1. It should be noted that before flashing, the TX2 must be in recovery mode.
+The Os will be ubuntu 16.04 LTS and will have Cuda 9.0 and tegra 4.4.38 which is needed for this project.
 At cmake ../ download only the image recognition packages, object detection packages, and FCN-Alexnet-cityscapes-HD package. Furthermore, download both python 2.7 and 3.6 when asked.
 
   $ sudo apt-get update
